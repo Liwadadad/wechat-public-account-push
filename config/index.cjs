@@ -11,7 +11,7 @@ USE_PASSAGE: 'push-deer',
   APP_ID: 'wxfb15844b42ebce61',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'a6ecc2fafb3c3ebba06251d0713974de',
 
   PROVINCE: '山东',
   CITY: '济南',
