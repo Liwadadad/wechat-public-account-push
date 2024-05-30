@@ -29,7 +29,7 @@ USE_PASSAGE: 'push-deer',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '小静', year: '2005', date: '02-06',
+          type: '*生日', name: '小静', year: '2005', date: '12-28',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
