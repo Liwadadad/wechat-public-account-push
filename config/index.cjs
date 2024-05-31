@@ -19,9 +19,9 @@ USE_PASSAGE: 'wechat-test',
   USERS: [
     {
       // 想要发送的人的名字
-      name: 'oWuTD6vcdWOnWgm1e_IBCh3JGQuY',
+      name: 小静',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'PDU30297TCnX6j5UZm7WoUYfm756XUrTDD7n2RoIQ',
+      id: 'oWuTD6vcdWOnWgm1e_IBCh3JGQuY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -58,7 +58,7 @@ USE_PASSAGE: 'wechat-test',
     {
       name: '旺崽崽',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oWuTD6vcdWOnWgm1e_IBCh3JGQuY',
     }
   ],
 
