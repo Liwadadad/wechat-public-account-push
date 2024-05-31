@@ -14,17 +14,18 @@ const USER_CONFIG = {
 
   PROVINCE: '山东',
   CITY: '济南',
+  
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: 小静',
+      name: '小静',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oWuTD6vcdWOnWgm1e_IBCh3JGQuY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'SS3ngyemjIUpXo9fVQ238Fu27yiiMRmw7fN3btjDGA4',
+      useTemplateId: 'qJNGuO08RYM2juvGG2rf4Zn3gfKWquppMJq1RVolmZE',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '12-28',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -51,7 +52,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'SS3ngyemjIUpXo9fVQ238Fu27yiiMRmw7fN3btjDGA4',
+  CALLBACK_TEMPLATE_ID: 'oWuTD6vcdWOnWgm1e_IBCh3JGQuY',
 
   CALLBACK_USERS: [
     {
