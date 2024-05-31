@@ -51,7 +51,7 @@ USE_PASSAGE: 'push-deer',
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'oWuTD6vcdWOnWgm1e_IBCh3JGQuY',
+  CALLBACK_TEMPLATE_ID: 'SS3ngyemjIUpXo9fVQ238Fu27yiiMRmw7fN3btjDGA4',
 
   CALLBACK_USERS: [
     {
